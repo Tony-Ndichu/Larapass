@@ -1,5 +1,5 @@
 # Larapass
-Larapass is a REST API in Laravel using Passport for authentication. Made with :love: by me.
+Larapass is a REST API in Laravel using Passport for authentication. Made with :heart: by me.
 
 ## To run
 
